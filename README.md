@@ -74,7 +74,7 @@ broadcast - admin only
    <p> Savio Joseph</p>
   </a>
 <a href="https://instagram.com/_pietro.x_">
-   <p> lntechnical Instagram </p>
+   <p> Savio's Instagram </p>
   </a>
 
 ## 🤩 INSPIRATION
