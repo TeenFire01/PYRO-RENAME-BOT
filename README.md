@@ -70,11 +70,11 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
+<a href="https://t.me/josephvijayfan">
+   <p> Savio Joseph</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
+<a href="https://instagram.com/_pietro.x_">
+   <p> lntechnical Instagram </p>
   </a>
 
 ## 🤩 INSPIRATION
